@@ -46,5 +46,8 @@
     "vuetify-loader": "^1.7.3",
     "webfontloader": "^1.6.28",
     "webpack": "^5.52.0"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Sulai3030/portfolio8",
+  "license": "MIT"
 }
