@@ -15,17 +15,17 @@
         >
           <base-subheading
             weight="regular"
-            title="WE LOVE MAKING THINGS SIMPLE AND AMAZING"
+            title="Web Designer"
           />
 
           <base-heading
             size="text-h2"
-            title="WELCOME TO ZERO"
+            title="Sulai Sivadel"
             weight="medium"
           />
 
           <base-body>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae nobis neque aspernatur in quas iure id aliquid, esse debitis, quibusdam mollitia! Quia ea expedita magnam totam, earum omnis et perspiciatis?
+            
           </base-body>
 
           <div
@@ -33,10 +33,10 @@
             class="d-flex flex-wrap"
           >
             <base-btn>
-              Discover More
+              
             </base-btn>
 
-            <span class="font-weight-bold ml-6 mr-4 my-4">or</span>
+            <span class="font-weight-bold ml-6 mr-4 my-4"></span>
 
             <base-btn
               :ripple="false"
@@ -44,7 +44,7 @@
               height="auto"
               text
             >
-              Get Started Now
+              
             </base-btn>
           </div>
         </v-responsive>
