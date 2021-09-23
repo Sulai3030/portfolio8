@@ -62,7 +62,7 @@
         'Home',
         'Applications Built',
         'Clients',
-        'Writing Experience',
+        'Professional Writing/Technical Writing',
         'Technical Skills',
       ],
     }),

@@ -24,28 +24,21 @@
             weight="medium"
           />
 
-          <base-body>
+          <base-subheading 
+            weight="regular"
+            title="Ambitious, user-focused Web and Software Developer with experience working in teams and independently. Has strong project management experience and experience delegating responsibilities to a team from time at Maximus where he spearheaded a project to create the audio/ADA compliant portion of a new healthcare plan for 1.5 million citizens of New York State.">
             
-          </base-body>
+          </base-subheading>
+          <base-subheading 
+            weight="regular"
+            title="A flexible and quick learner committed to constantly learning learning and evolving his skills to stay abreast of ever-evolving technologies and trends in the industry. Communicative, knowledgeable and steadfast with excellent computer engineering skills learned in the Columbia University Coding Bootcamp where he created projects in HTML5, CSS, JavaScript, ReactJS, and VueJS.">
+            
+          </base-subheading>
 
           <div
             :class="$vuetify.breakpoint.smAndDown ? 'flex-column align-start' : 'align-center'"
             class="d-flex flex-wrap"
           >
-            <base-btn>
-              
-            </base-btn>
-
-            <span class="font-weight-bold ml-6 mr-4 my-4"></span>
-
-            <base-btn
-              :ripple="false"
-              class="pa-1"
-              height="auto"
-              text
-            >
-              
-            </base-btn>
           </div>
         </v-responsive>
       </v-container>
