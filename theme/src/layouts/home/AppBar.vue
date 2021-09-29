@@ -59,11 +59,6 @@
     data: () => ({
       drawer: null,
       items: [
-        'Home',
-        'Applications Built',
-        'Clients',
-        'Professional Writing/Technical Writing',
-        'Technical Skills',
       ],
     }),
   }

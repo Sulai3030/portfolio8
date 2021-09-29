@@ -15,7 +15,7 @@
             horizontal
           >
           <v-card-title>Project 1. </v-card-title>
-            <p class="font-weight-black"><a href="partydash.com">Party Dash App</a></p>
+            <p class="font-weight-black"><a href="https://www.partydash.com">Party Dash App</a></p>
             <p class="font-weight-black">We built Party Dash with a simple goal in mind, to help party hosts plan parties more easily.</p>
             <p class="font-weight-black">Followed design specs handed down from site owner.</p> 
             <p class="font-weight-black">Used CSS and HTML to create inviting website</p>
@@ -58,7 +58,7 @@
             horizontal
           >
             <v-card-title>Project 3.</v-card-title>
-            <p class="font-weight-black"><a href="www.goatvoter.org">G.O.A.T. Voter App</a> </p>
+            <p class="font-weight-black"><a href="https://www.goatvoter.org">G.O.A.T. Voter App</a> </p>
             <p class="font-weight-black">The GOAT Voter App is a one-stop platform where voters can access information about candidates running for political offices anywhere in the United States. The GOAT Voter App streamlines information and increases voter participation.</p>
             <p class="font-weight-black">By entering their zip code in a search field, users will be able to search and access detailed information about all candidates running for election in their district. In addition, users can enter their address to find out where their nearest polling site is located and request transportation on election day.</p>
             <p class="font-weight-black">Responsibilities:</p> 
@@ -81,7 +81,7 @@
             horizontal
           >
             <v-card-title>Project 4.</v-card-title>
-            <p class="font-weight-black"><a href="www.https://sulai3030.github.io/test-BeerNearHere/g">Beer Near Here</a> </p>
+            <p class="font-weight-black"><a href="https://sulai3030.github.io/test-BeerNearHere/">Beer Near Here</a> </p>
             <p class="font-weight-black">Beer Near Here</p>
             <p class="font-weight-black">By entering their zip code in a search field, users will be able to search and access detailed information about all candidates running for election in their district. In addition, users can enter their address to find out where their nearest polling site is located and request transportation on election day.</p>
             <p class="font-weight-black">Responsibilities:</p> 
@@ -99,7 +99,7 @@
 
 <script>
   export default {
-    name: 'SectionThemeFeatures',
+    name: 'SectionApplications',
 
     data: () => ({
       features: [
